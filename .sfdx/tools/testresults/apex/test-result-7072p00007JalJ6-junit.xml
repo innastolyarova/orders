@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-11-08T15:34:39+03:00" hostname="https://cats-inna-dev-ed.my.salesforce.com" tests="1" failures="1"  errors="0"  time="0.23">
+        <properties>
+            <property name="outcome" value="Failed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="0"/>
+            <property name="failing" value="1"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="0%"/>
+            <property name="failRate" value="100%"/>
+            <property name="testStartTime" value="Nov 8, 2019 3:34 PM"/>
+            <property name="testExecutionTime" value="0.23 s"/>
+            <property name="testTotalTime" value="0.23 s"/>
+            <property name="commandTime" value="5.96 s"/>
+            <property name="hostname" value="https://cats-inna-dev-ed.my.salesforce.com"/>
+            <property name="orgId" value="00D2p0000013mwyEAA"/>
+            <property name="username" value="inna.stolyarova@vrp.dev.comnsulting.com"/>
+            <property name="testRunId" value="7072p00007JalJ6"/>
+            <property name="userId" value="0052p000009LlzYAAS"/>
+            <property name="testRunCoverage" value="76%"/>
+            <property name="orgWideCoverage" value="31%"/>
+        </properties>
+        <testcase name="updateOpportunityTest" classname="TestCopyOrders" time="0.23">
+            <failure message="System.AssertException: Assertion Failed: Expected: 50, Actual: 10.00"><![CDATA[Class.TestCopyOrders.updateOpportunityTest: line 32, column 1]]></failure>
+        </testcase>
+    </testsuite>
+</testsuites>

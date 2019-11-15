@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-11-14T13:16:12+03:00" hostname="https://cats-inna-dev-ed.my.salesforce.com" tests="6" failures="2"  errors="0"  time="4.8">
+        <properties>
+            <property name="outcome" value="Failed"/>
+            <property name="testsRan" value="6"/>
+            <property name="passing" value="4"/>
+            <property name="failing" value="2"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="67%"/>
+            <property name="failRate" value="33%"/>
+            <property name="testStartTime" value="Nov 14, 2019 1:16 PM"/>
+            <property name="testExecutionTime" value="4.8 s"/>
+            <property name="testTotalTime" value="4.8 s"/>
+            <property name="commandTime" value="8.66 s"/>
+            <property name="hostname" value="https://cats-inna-dev-ed.my.salesforce.com"/>
+            <property name="orgId" value="00D2p0000013mwyEAA"/>
+            <property name="username" value="inna.stolyarova@vrp.dev.comnsulting.com"/>
+            <property name="testRunId" value="7072p00007L8cSE"/>
+            <property name="userId" value="0052p000009LlzYAAS"/>
+            <property name="testRunCoverage" value="80%"/>
+            <property name="orgWideCoverage" value="33%"/>
+        </properties>
+        <testcase name="addOpportunityTest" classname="TestCopyOrders" time="0.71">
+        </testcase>
+        <testcase name="addWebOrderTest" classname="TestCopyOrders" time="0.37">
+            <failure message="System.SObjectException: SObject row was retrieved via SOQL without querying the requested field: Web_Order__c.Name"><![CDATA[Class.TestCopyOrders.addWebOrderTest: line 73, column 1]]></failure>
+        </testcase>
+        <testcase name="deleteOpportunityTest" classname="TestCopyOrders" time="1.28">
+        </testcase>
+        <testcase name="deleteWebOrderTest" classname="TestCopyOrders" time="0.6">
+        </testcase>
+        <testcase name="updateOpportunityTest" classname="TestCopyOrders" time="1.15">
+        </testcase>
+        <testcase name="updateWebOrderTest" classname="TestCopyOrders" time="0.69">
+            <failure message="System.SObjectException: SObject row was retrieved via SOQL without querying the requested field: Web_Order__c.Amount__c"><![CDATA[Class.TestCopyOrders.updateWebOrderTest: line 110, column 1]]></failure>
+        </testcase>
+    </testsuite>
+</testsuites>

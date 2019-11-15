@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-08-30T16:41:27+03:00" hostname="https://efficiency-inspiration-8299-dev-ed.cs102.my.salesforce.com/" tests="1" failures="1"  errors="0"  time="1.19">
+        <properties>
+            <property name="outcome" value="Failed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="0"/>
+            <property name="failing" value="1"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="0%"/>
+            <property name="failRate" value="100%"/>
+            <property name="testStartTime" value="Aug 30, 2019 4:41 PM"/>
+            <property name="testExecutionTime" value="1.19 s"/>
+            <property name="testTotalTime" value="1.19 s"/>
+            <property name="commandTime" value="8.59 s"/>
+            <property name="hostname" value="https://efficiency-inspiration-8299-dev-ed.cs102.my.salesforce.com/"/>
+            <property name="orgId" value="00D1j0000000TebEAE"/>
+            <property name="username" value="test-o2pamexq65qp@example.com"/>
+            <property name="testRunId" value="7071j00000TcAHI"/>
+            <property name="userId" value="0051j000001zCRHAA2"/>
+            <property name="testRunCoverage" value="78%"/>
+            <property name="orgWideCoverage" value="78%"/>
+        </properties>
+        <testcase name="TestAddOpportunity" classname="TestCopyOrders" time="1.19">
+            <failure message="System.AssertException: Assertion Failed: Expected: Prospecting, Actual: null"><![CDATA[Class.TestCopyOrders.TestAddOpportunity: line 25, column 1]]></failure>
+        </testcase>
+    </testsuite>
+</testsuites>

@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-11-14T15:32:25+03:00" hostname="https://cats-inna-dev-ed.my.salesforce.com" tests="6" failures="0"  errors="0"  time="4.21">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="6"/>
+            <property name="passing" value="6"/>
+            <property name="failing" value="0"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="Nov 14, 2019 3:32 PM"/>
+            <property name="testExecutionTime" value="4.21 s"/>
+            <property name="testTotalTime" value="4.21 s"/>
+            <property name="commandTime" value="7.22 s"/>
+            <property name="hostname" value="https://cats-inna-dev-ed.my.salesforce.com"/>
+            <property name="orgId" value="00D2p0000013mwyEAA"/>
+            <property name="username" value="inna.stolyarova@vrp.dev.comnsulting.com"/>
+            <property name="testRunId" value="7072p00007L8hTb"/>
+            <property name="userId" value="0052p000009LlzYAAS"/>
+            <property name="testRunCoverage" value="80%"/>
+            <property name="orgWideCoverage" value="33%"/>
+        </properties>
+        <testcase name="addOpportunityTest" classname="TestCopyOrders" time="0.53">
+        </testcase>
+        <testcase name="addWebOrderTest" classname="TestCopyOrders" time="0.36">
+        </testcase>
+        <testcase name="deleteOpportunityTest" classname="TestCopyOrders" time="0.92">
+        </testcase>
+        <testcase name="deleteWebOrderTest" classname="TestCopyOrders" time="0.51">
+        </testcase>
+        <testcase name="updateOpportunityTest" classname="TestCopyOrders" time="1.02">
+        </testcase>
+        <testcase name="updateWebOrderTest" classname="TestCopyOrders" time="0.87">
+        </testcase>
+    </testsuite>
+</testsuites>

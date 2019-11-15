@@ -1,0 +1,260 @@
+{
+    "summary": {
+        "outcome": "Failed",
+        "testsRan": 1,
+        "passing": 0,
+        "failing": 1,
+        "skipped": 0,
+        "passRate": "0%",
+        "failRate": "100%",
+        "testStartTime": "Aug 30, 2019 4:41 PM",
+        "testExecutionTime": "1188 ms",
+        "testTotalTime": "1188 ms",
+        "commandTime": "8590 ms",
+        "hostname": "https://efficiency-inspiration-8299-dev-ed.cs102.my.salesforce.com/",
+        "orgId": "00D1j0000000TebEAE",
+        "username": "test-o2pamexq65qp@example.com",
+        "testRunId": "7071j00000TcAHI",
+        "userId": "0051j000001zCRHAA2",
+        "testRunCoverage": "78%",
+        "orgWideCoverage": "78%"
+    },
+    "tests": [
+        {
+            "attributes": {
+                "type": "ApexTestResult",
+                "url": "/services/data/v45.0/tooling/sobjects/ApexTestResult/07M1j000002ocUMEAY"
+            },
+            "Id": "07M1j000002ocUMEAY",
+            "QueueItemId": "7091j000000K2Y5AAK",
+            "StackTrace": "Class.TestCopyOrders.TestAddOpportunity: line 25, column 1",
+            "Message": "System.AssertException: Assertion Failed: Expected: Prospecting, Actual: null",
+            "AsyncApexJobId": "7071j00000TcAHIAA3",
+            "MethodName": "TestAddOpportunity",
+            "Outcome": "Fail",
+            "ApexClass": {
+                "attributes": {
+                    "type": "ApexClass",
+                    "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01p1j000000XXsHAAW"
+                },
+                "Id": "01p1j000000XXsHAAW",
+                "Name": "TestCopyOrders",
+                "NamespacePrefix": null
+            },
+            "RunTime": 1188,
+            "FullName": "TestCopyOrders.TestAddOpportunity"
+        }
+    ],
+    "coverage": {
+        "coverage": [
+            {
+                "id": "01q1j000000ErlqAAC",
+                "name": "WeborderCopyTrigger",
+                "totalLines": 2,
+                "lines": {
+                    "2": 1,
+                    "3": 1
+                },
+                "totalCovered": 2,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01q1j000000ErlpAAC",
+                "name": "OpportunityCopyTrigger",
+                "totalLines": 2,
+                "lines": {
+                    "2": 1,
+                    "3": 1
+                },
+                "totalCovered": 2,
+                "coveredPercent": 100
+            },
+            {
+                "id": "01p1j000000XVrYAAW",
+                "name": "HandlerOpportunityWebOrder",
+                "totalLines": 37,
+                "lines": {
+                    "2": 1,
+                    "3": 1,
+                    "4": 1,
+                    "5": 1,
+                    "6": 1,
+                    "7": 1,
+                    "8": 1,
+                    "9": 1,
+                    "12": 1,
+                    "15": 1,
+                    "16": 1,
+                    "17": 1,
+                    "18": 1,
+                    "19": 1,
+                    "20": 1,
+                    "21": 1,
+                    "22": 1,
+                    "23": 1,
+                    "24": 1,
+                    "25": 1,
+                    "27": 1,
+                    "29": 1,
+                    "33": 1,
+                    "36": 1,
+                    "37": 1,
+                    "38": 1,
+                    "39": 1,
+                    "40": 0,
+                    "41": 0,
+                    "42": 0,
+                    "43": 0,
+                    "44": 0,
+                    "46": 0,
+                    "47": 0,
+                    "48": 0,
+                    "51": 0,
+                    "54": 1
+                },
+                "totalCovered": 28,
+                "coveredPercent": 75.67567567567568
+            }
+        ],
+        "records": [
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v45.0/tooling/sobjects/ApexCodeCoverage/7141j00000KlD2RAAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01p1j000000XXsHAAW"
+                    },
+                    "Id": "01p1j000000XXsHAAW",
+                    "Name": "TestCopyOrders"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        2,
+                        3
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "TestAddOpportunity",
+                "NumLinesCovered": 2,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v45.0/tooling/sobjects/ApexTrigger/01q1j000000ErlqAAC"
+                    },
+                    "Id": "01q1j000000ErlqAAC",
+                    "Name": "WeborderCopyTrigger"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v45.0/tooling/sobjects/ApexCodeCoverage/7141j00000KlD2SAAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01p1j000000XXsHAAW"
+                    },
+                    "Id": "01p1j000000XXsHAAW",
+                    "Name": "TestCopyOrders"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        2,
+                        3
+                    ],
+                    "uncoveredLines": []
+                },
+                "TestMethodName": "TestAddOpportunity",
+                "NumLinesCovered": 2,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v45.0/tooling/sobjects/ApexTrigger/01q1j000000ErlpAAC"
+                    },
+                    "Id": "01q1j000000ErlpAAC",
+                    "Name": "OpportunityCopyTrigger"
+                },
+                "NumLinesUncovered": 0
+            },
+            {
+                "attributes": {
+                    "type": "ApexCodeCoverage",
+                    "url": "/services/data/v45.0/tooling/sobjects/ApexCodeCoverage/7141j00000KlD2TAAV"
+                },
+                "ApexTestClass": {
+                    "attributes": {
+                        "type": "ApexClass",
+                        "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01p1j000000XXsHAAW"
+                    },
+                    "Id": "01p1j000000XXsHAAW",
+                    "Name": "TestCopyOrders"
+                },
+                "Coverage": {
+                    "coveredLines": [
+                        2,
+                        3,
+                        4,
+                        5,
+                        6,
+                        7,
+                        8,
+                        9,
+                        12,
+                        15,
+                        16,
+                        17,
+                        18,
+                        19,
+                        20,
+                        21,
+                        22,
+                        23,
+                        24,
+                        25,
+                        27,
+                        29,
+                        33,
+                        36,
+                        37,
+                        38,
+                        39,
+                        54
+                    ],
+                    "uncoveredLines": [
+                        40,
+                        41,
+                        42,
+                        43,
+                        44,
+                        46,
+                        47,
+                        48,
+                        51
+                    ]
+                },
+                "TestMethodName": "TestAddOpportunity",
+                "NumLinesCovered": 28,
+                "ApexClassOrTrigger": {
+                    "attributes": {
+                        "type": "Name",
+                        "url": "/services/data/v45.0/tooling/sobjects/ApexClass/01p1j000000XVrYAAW"
+                    },
+                    "Id": "01p1j000000XVrYAAW",
+                    "Name": "HandlerOpportunityWebOrder"
+                },
+                "NumLinesUncovered": 9
+            }
+        ],
+        "summary": {
+            "totalLines": 41,
+            "coveredLines": 32,
+            "testRunCoverage": "78%",
+            "orgWideCoverage": "78%"
+        }
+    }
+}

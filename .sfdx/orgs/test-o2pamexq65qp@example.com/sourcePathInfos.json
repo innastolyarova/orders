@@ -1,0 +1,873 @@
+[
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566812627492,
+            "changeTime": 1566812627492,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566807545703,
+            "changeTime": 1566807545703,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567417969578,
+            "changeTime": 1567417969578,
+            "contentHash": "4dee069c1d70a2960b380a0f23ffd5b0689176b5",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567417969596,
+            "changeTime": 1567417969596,
+            "contentHash": "0bd386e6aa04d29b1c0274f19d7fd0c913380be1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\HandlerOpportunityWebOrder.cls",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\HandlerOpportunityWebOrder.cls",
+            "isDirectory": false,
+            "size": 2074,
+            "modifiedTime": 1567417969596,
+            "changeTime": 1567417969596,
+            "contentHash": "689bba959643aaf1c9b2dd67c840b5c7bd396a99",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\HandlerOpportunityWebOrder.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\HandlerOpportunityWebOrder.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1566825638444,
+            "changeTime": 1566825638444,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567417969522,
+            "changeTime": 1567417969522,
+            "contentHash": "e9b9237f5bea2483869b70f607cb86e1d58845e1",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Marketing%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8622,
+            "modifiedTime": 1567417969514,
+            "changeTime": 1567417969514,
+            "contentHash": "6991c2b484057b430045f0d5364803d18b802c50",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Sales%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8582,
+            "modifiedTime": 1567417969534,
+            "changeTime": 1567417969534,
+            "contentHash": "bed3009df01faa7d7e6992347f5ee6c394f62934",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Opportunity-Opportunity %28Support%29 Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8485,
+            "modifiedTime": 1567417969551,
+            "changeTime": 1567417969551,
+            "contentHash": "ad113a6106f22eb3c36543ebd390cdea412fe9f6",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Opportunity-Opportunity Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 8574,
+            "modifiedTime": 1567417969567,
+            "changeTime": 1567417969567,
+            "contentHash": "5144bbcb1303056be1af1a4a029241596d041ef8",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Web_Order__c-Web Order Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\Web_Order__c-Web Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 3850,
+            "modifiedTime": 1567417969499,
+            "changeTime": 1567417969499,
+            "contentHash": "f3e304befb674772902a84d50a3aa545542a1bf5",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\lwc",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\lwc",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567003991960,
+            "changeTime": 1567003991960,
+            "contentHash": "a973ac1b5be0e216b2a2db1b82ae5ba97f4086f4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566812657016,
+            "changeTime": 1566812657016,
+            "contentHash": "0eb83951e77992580fd9326e56dac6064a69f6d7",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\aura",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\aura",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566807545703,
+            "changeTime": 1566812657016,
+            "contentHash": "da39a3ee5e6b4b0d3255bfef95601890afd80709",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566825638362,
+            "changeTime": 1566825638362,
+            "contentHash": "8de130ce94714405598b519c7843b22ab361a643",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fields",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567417969467,
+            "changeTime": 1567417969467,
+            "contentHash": "aeab8076f754d8cdd2882aea4ade61b13435c16a",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fields\\FromWeborder__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fields\\FromWeborder__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 377,
+            "modifiedTime": 1566825638363,
+            "changeTime": 1566825638363,
+            "contentHash": "8341c0ea91c7c0ea0229a7ef0f836af252545339",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fieldSets",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fieldSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566812639875,
+            "changeTime": 1566812639875,
+            "contentHash": "b055dccc6c1c40bcb262ec3be718968e81f34d98",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fieldSets\\CopyToOrder.fieldSet-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fieldSets\\CopyToOrder.fieldSet-meta.xml",
+            "isDirectory": false,
+            "size": 1561,
+            "modifiedTime": 1567077328533,
+            "changeTime": 1567077328533,
+            "contentHash": "b20eee2722a59f1c742c280d115f4467617adad0",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566812639937,
+            "changeTime": 1566812639937,
+            "contentHash": "e497c02f2e300c23a6a1f2b16d37b7b7b09d3db4",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567417969487,
+            "changeTime": 1567417969487,
+            "contentHash": "64f7f0cc95c898f4a0d2b000228acac6621aacd4",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Account__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Account__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 507,
+            "modifiedTime": 1567417969477,
+            "changeTime": 1567417969477,
+            "contentHash": "067df3e8f27a8d7e6a118fa808d94487330ad0f9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Amount__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Amount__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 361,
+            "modifiedTime": 1566812639905,
+            "changeTime": 1566812639905,
+            "contentHash": "ef99e42a28ff4e4cbe78d4e6fd9aad13b598cf1f",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Campaign_Id__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Campaign_Id__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 513,
+            "modifiedTime": 1567417969484,
+            "changeTime": 1567417969484,
+            "contentHash": "7c83dea983fce6935b47d591877f945e4ca575b3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Close_Date__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Close_Date__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 314,
+            "modifiedTime": 1566812639913,
+            "changeTime": 1566812639913,
+            "contentHash": "dfbdbefa27a44dd6c86931d844a0cd71dcc15ead",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Expected_Revenue__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Expected_Revenue__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 381,
+            "modifiedTime": 1566812639916,
+            "changeTime": 1566812639916,
+            "contentHash": "ae79cd051eb449e935c5f3b650d1f846161d3b99",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\FromOpportunity__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\FromOpportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 336,
+            "modifiedTime": 1566825638371,
+            "changeTime": 1566825638371,
+            "contentHash": "f1e50b0c815e18dcb837ef68e9c4cb597a158796",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\IqScore__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\IqScore__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 386,
+            "modifiedTime": 1566812639920,
+            "changeTime": 1566812639920,
+            "contentHash": "944f04caf8aecdaa062224ab7f46169a7339c402",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\IsPrivate__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\IsPrivate__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 322,
+            "modifiedTime": 1566812639923,
+            "changeTime": 1566812639923,
+            "contentHash": "df96ad79b49e7fd21f50902739122b09b6e28b5a",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Probability__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Probability__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 373,
+            "modifiedTime": 1566812639927,
+            "changeTime": 1566812639927,
+            "contentHash": "719eea679f32870019b30a5ab5be2b1587f7013b",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Quantity__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Quantity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 390,
+            "modifiedTime": 1566812639930,
+            "changeTime": 1566812639930,
+            "contentHash": "029df050019d6a25ea98ac46cf34f18f471be762",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Stage__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Stage__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 2295,
+            "modifiedTime": 1566812639934,
+            "changeTime": 1566812639934,
+            "contentHash": "01ccbc5b59d6d332228887ffa3c95d570d5117c0",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fieldSets",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fieldSets",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566812639898,
+            "changeTime": 1566812639898,
+            "contentHash": "6505ade7d0bebb89d819bc42fde95bf52be63643",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fieldSets\\FieldsToCopy.fieldSet-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fieldSets\\FieldsToCopy.fieldSet-meta.xml",
+            "isDirectory": false,
+            "size": 1574,
+            "modifiedTime": 1567077328551,
+            "changeTime": 1567077328551,
+            "contentHash": "140000bb14ca13e8280a4613bb63ae12bf4f06b9",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\listViews",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\listViews",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566812639938,
+            "changeTime": 1566812639938,
+            "contentHash": "0b3931647b535802350a588b8bf16d4ae6cc2ed6",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\listViews\\All.listView-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\listViews\\All.listView-meta.xml",
+            "isDirectory": false,
+            "size": 204,
+            "modifiedTime": 1566812639938,
+            "changeTime": 1566812639938,
+            "contentHash": "a09136a1a46c72265bcd1de0f4a07ba06ec1e9bd",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\Web_Order__c.object-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\Web_Order__c.object-meta.xml",
+            "isDirectory": false,
+            "size": 2065,
+            "modifiedTime": 1566812639894,
+            "changeTime": 1566812639894,
+            "contentHash": "c922ffa2ee5556aadaf490db075e920266fd164c",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566812639988,
+            "changeTime": 1566812639988,
+            "contentHash": "9c367b0e719eb8c48c5b0d9cbfb5f580a4bd6717",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles\\Admin.profile-meta.xml",
+            "isDirectory": false,
+            "size": 25275,
+            "modifiedTime": 1567417969659,
+            "changeTime": 1567417969659,
+            "contentHash": "eb61e19246944f928a2fcad4207ab0c0cf4d9d92",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles\\Custom%3A Marketing Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9979,
+            "modifiedTime": 1567417969639,
+            "changeTime": 1567417969639,
+            "contentHash": "d9128c9655874156476b6f1fbf69604e59628340",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles\\Custom%3A Sales Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 9975,
+            "modifiedTime": 1567417969608,
+            "changeTime": 1567417969608,
+            "contentHash": "462003b22bdd3d3bba820ec9632ab4d0eaceaed3",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\profiles\\Custom%3A Support Profile.profile-meta.xml",
+            "isDirectory": false,
+            "size": 10315,
+            "modifiedTime": 1567417969625,
+            "changeTime": 1567417969625,
+            "contentHash": "0373de7e19e7651a2088b1d6043decf09d39f00c",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\tabs",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\tabs",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566812639953,
+            "changeTime": 1566812639953,
+            "contentHash": "90541dd7190d42e0f0426f7450b9dd7d29055ff2",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\tabs\\Web_Order__c.tab-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\tabs\\Web_Order__c.tab-meta.xml",
+            "isDirectory": false,
+            "size": 220,
+            "modifiedTime": 1566812639953,
+            "changeTime": 1566812639953,
+            "contentHash": "d9121f0672c5560916f74000926d48c9b89477a2",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1566994990719,
+            "changeTime": 1566994990719,
+            "contentHash": "f31f4a452236981e747ab5d4aadafe65668e369f",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers\\OpportunityCopyTrigger.trigger",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers\\OpportunityCopyTrigger.trigger",
+            "isDirectory": false,
+            "size": 179,
+            "modifiedTime": 1566994990713,
+            "changeTime": 1566994990719,
+            "contentHash": "c18637cf28288e7f84dba3e00915468472d11ba9",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers\\OpportunityCopyTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers\\OpportunityCopyTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1566812771234,
+            "changeTime": 1566812771234,
+            "contentHash": "5d8d17e9ccc908122d14250ad244762799083212",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers\\WeborderCopyTrigger.trigger",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers\\WeborderCopyTrigger.trigger",
+            "isDirectory": false,
+            "size": 176,
+            "modifiedTime": 1566994990688,
+            "changeTime": 1566994990709,
+            "contentHash": "f89353c0957c5fe97a6159714c004179017484f0",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers\\WeborderCopyTrigger.trigger-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\triggers\\WeborderCopyTrigger.trigger-meta.xml",
+            "isDirectory": false,
+            "size": 178,
+            "modifiedTime": 1566812771240,
+            "changeTime": 1566812771240,
+            "contentHash": "5d8d17e9ccc908122d14250ad244762799083212",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567003974744,
+            "changeTime": 1567003974744,
+            "contentHash": "b93f2ab674d81b923ab76f105daf06ef529da97b",
+            "isMetadataFile": false,
+            "state": "u",
+            "isWorkspace": true
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\TestCopyOrders.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\TestCopyOrders.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1566995380320,
+            "changeTime": 1566995380320,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
+            "isMetadataFile": true,
+            "state": "u",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\TestCopyOrders.cls",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\TestCopyOrders.cls",
+            "isDirectory": false,
+            "size": 1679,
+            "modifiedTime": 1567417969593,
+            "changeTime": 1567417969593,
+            "contentHash": "e150ce54311d6dccaa459f6db13f236c11c59b67",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fields\\Web_Order__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Opportunity\\fields\\Web_Order__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 566,
+            "modifiedTime": 1567417969467,
+            "changeTime": 1567417969467,
+            "contentHash": "761f54dabd7baca19a22b7148394530b2aafab65",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Opportunity__c.field-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\objects\\Web_Order__c\\fields\\Opportunity__c.field-meta.xml",
+            "isDirectory": false,
+            "size": 407,
+            "modifiedTime": 1567417969487,
+            "changeTime": 1567417969487,
+            "contentHash": "dbe604202f82e02c6d56f703d49f62411bb26efa",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\WorkOrder-Work Order Layout.layout-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\layouts\\WorkOrder-Work Order Layout.layout-meta.xml",
+            "isDirectory": false,
+            "size": 6901,
+            "modifiedTime": 1567417969523,
+            "changeTime": 1567417969523,
+            "contentHash": "6983f120e646bd578118b75cfaac3fa06e2e4277",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\flows\\update_opp_id.flow-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\flows\\update_opp_id.flow-meta.xml",
+            "isDirectory": false,
+            "size": 7990,
+            "modifiedTime": 1567417969574,
+            "changeTime": 1567417969574,
+            "contentHash": "9879781256d806683185928d93bdc870b2958027",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\workflows\\Opportunity.workflow-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\workflows\\Opportunity.workflow-meta.xml",
+            "isDirectory": false,
+            "size": 99,
+            "modifiedTime": 1567417969579,
+            "changeTime": 1567417969579,
+            "contentHash": "f4f1ce89ee533d2c8ac7b592c2d443e2b63abf28",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\TestOpportunityFactory.cls-meta.xml",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\TestOpportunityFactory.cls-meta.xml",
+            "isDirectory": false,
+            "size": 174,
+            "modifiedTime": 1567417969583,
+            "changeTime": 1567417969583,
+            "contentHash": "7f6517e5462e478a2d535000a85299d8a5a10871",
+            "isMetadataFile": true,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\TestOpportunityFactory.cls",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\classes\\TestOpportunityFactory.cls",
+            "isDirectory": false,
+            "size": 1171,
+            "modifiedTime": 1567417969585,
+            "changeTime": 1567417969585,
+            "contentHash": "b09d6ece0ace4553600b5abad60ad7742e91536b",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\flows",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\flows",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567417969574,
+            "changeTime": 1567417969574,
+            "contentHash": "aae7bee3c2972c6e6c23fd465a0cc56be29cbe77",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ],
+    [
+        "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\workflows",
+        {
+            "sourcePath": "c:\\Users\\User\\Documents\\weborder\\force-app\\main\\default\\workflows",
+            "isDirectory": true,
+            "size": 0,
+            "modifiedTime": 1567417969579,
+            "changeTime": 1567417969579,
+            "contentHash": "e15d5db5d20124c61901fd95d6f9a0fa37d787f3",
+            "isMetadataFile": false,
+            "state": "u"
+        }
+    ]
+]

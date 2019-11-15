@@ -1,0 +1,33 @@
+@isTest
+public class TestCopyOrders {
+	
+	@isTest
+	static  void TestAddOpportunity(){
+		Account acc = [SELECT Id, Name From Account LIMIT 1];
+		Opportunity opp = new Opportunity(Name=acc.Name + ' Opportunity',
+				StageName='Prospecting',
+				CloseDate=System.today().addMonths(1),
+				AccountId=acc.Id,
+				Amount = 10,
+				CampaignId = '7011j000000AyqFAAS',
+				IsPrivate = true,
+				Probability = 50,
+				TotalOpportunityQuantity = 10
+
+		);
+		Test.startTest();
+		insert opp;
+		Test.stopTest();
+
+		Web_Order__c order = [SELECT Name, Account__c, Amount__c, Close_Date__c, Campaign_Id__c, IsPrivate__c, Probability__c, Quantity__c, Stage__c FROM Web_Order__c LIMIT 1];
+		System.assertEquals(opp.Name, order.Name);
+		System.assertEquals(opp.StageName, order.Stage__c);
+		System.assertEquals(opp.CloseDate, order.Close_Date__c);
+		System.assertEquals(opp.AccountId, order.Account__c);
+		System.assertEquals(opp.Amount, order.Amount__c);
+		System.assertEquals(opp.CampaignId, order.Campaign_Id__c);
+		System.assertEquals(opp.IsPrivate, order.IsPrivate__c);
+		System.assertEquals(opp.Probability, order.Probability__c);
+		System.assertEquals(opp.TotalOpportunityQuantity, order.Quantity__c);
+	}
+}

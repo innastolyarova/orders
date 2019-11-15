@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-11-12T15:27:00+03:00" hostname="https://cats-inna-dev-ed.my.salesforce.com" tests="1" failures="1"  errors="0"  time="1.74">
+        <properties>
+            <property name="outcome" value="Failed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="0"/>
+            <property name="failing" value="1"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="0%"/>
+            <property name="failRate" value="100%"/>
+            <property name="testStartTime" value="Nov 12, 2019 3:27 PM"/>
+            <property name="testExecutionTime" value="1.74 s"/>
+            <property name="testTotalTime" value="1.74 s"/>
+            <property name="commandTime" value="5.08 s"/>
+            <property name="hostname" value="https://cats-inna-dev-ed.my.salesforce.com"/>
+            <property name="orgId" value="00D2p0000013mwyEAA"/>
+            <property name="username" value="inna.stolyarova@vrp.dev.comnsulting.com"/>
+            <property name="testRunId" value="7072p00007Jd11y"/>
+            <property name="userId" value="0052p000009LlzYAAS"/>
+            <property name="testRunCoverage" value="75%"/>
+            <property name="orgWideCoverage" value="30%"/>
+        </properties>
+        <testcase name="addWebOrderTest" classname="TestCopyOrders" time="1.74">
+            <failure message="System.QueryException: List has no rows for assignment to SObject"><![CDATA[Class.TestCopyOrders.addWebOrderTest: line 42, column 1]]></failure>
+        </testcase>
+    </testsuite>
+</testsuites>

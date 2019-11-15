@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-11-06T16:03:31+03:00" hostname="https://cats-inna-dev-ed.my.salesforce.com" tests="1" failures="0"  errors="0"  time="0.64">
+        <properties>
+            <property name="outcome" value="Passed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="1"/>
+            <property name="failing" value="0"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="100%"/>
+            <property name="failRate" value="0%"/>
+            <property name="testStartTime" value="Nov 6, 2019 4:03 PM"/>
+            <property name="testExecutionTime" value="0.64 s"/>
+            <property name="testTotalTime" value="0.64 s"/>
+            <property name="commandTime" value="4.1 s"/>
+            <property name="hostname" value="https://cats-inna-dev-ed.my.salesforce.com"/>
+            <property name="orgId" value="00D2p0000013mwyEAA"/>
+            <property name="username" value="inna.stolyarova@vrp.dev.comnsulting.com"/>
+            <property name="testRunId" value="7072p00007JZUS2"/>
+            <property name="userId" value="0052p000009LlzYAAS"/>
+            <property name="testRunCoverage" value="77%"/>
+            <property name="orgWideCoverage" value="31%"/>
+        </properties>
+        <testcase name="addOpportunityTest" classname="TestCopyOrders" time="0.64">
+        </testcase>
+    </testsuite>
+</testsuites>

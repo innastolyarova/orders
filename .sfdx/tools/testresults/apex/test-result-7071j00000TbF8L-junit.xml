@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-08-29T13:20:01+03:00" hostname="https://efficiency-inspiration-8299-dev-ed.cs102.my.salesforce.com/" tests="1" failures="1"  errors="0"  time="0.02">
+        <properties>
+            <property name="outcome" value="Failed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="0"/>
+            <property name="failing" value="1"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="0%"/>
+            <property name="failRate" value="100%"/>
+            <property name="testStartTime" value="Aug 29, 2019 1:20 PM"/>
+            <property name="testExecutionTime" value="0.02 s"/>
+            <property name="testTotalTime" value="0.02 s"/>
+            <property name="commandTime" value="3.6 s"/>
+            <property name="hostname" value="https://efficiency-inspiration-8299-dev-ed.cs102.my.salesforce.com/"/>
+            <property name="orgId" value="00D1j0000000TebEAE"/>
+            <property name="username" value="test-o2pamexq65qp@example.com"/>
+            <property name="testRunId" value="7071j00000TbF8L"/>
+            <property name="userId" value="0051j000001zCRHAA2"/>
+            <property name="testRunCoverage" value="NaN%"/>
+            <property name="orgWideCoverage" value="0%"/>
+        </properties>
+        <testcase name="TestAddOpportunity" classname="TestCopyOrders" time="0.02">
+            <failure message="System.QueryException: List has no rows for assignment to SObject"><![CDATA[Class.TestCopyOrders.TestAddOpportunity: line 7, column 1]]></failure>
+        </testcase>
+    </testsuite>
+</testsuites>

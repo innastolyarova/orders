@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites>
+    <testsuite name="force.apex" timestamp="2019-11-13T15:23:29+03:00" hostname="https://cats-inna-dev-ed.my.salesforce.com" tests="1" failures="1"  errors="0"  time="1.21">
+        <properties>
+            <property name="outcome" value="Failed"/>
+            <property name="testsRan" value="1"/>
+            <property name="passing" value="0"/>
+            <property name="failing" value="1"/>
+            <property name="skipped" value="0"/>
+            <property name="passRate" value="0%"/>
+            <property name="failRate" value="100%"/>
+            <property name="testStartTime" value="Nov 13, 2019 3:23 PM"/>
+            <property name="testExecutionTime" value="1.21 s"/>
+            <property name="testTotalTime" value="1.21 s"/>
+            <property name="commandTime" value="8.88 s"/>
+            <property name="hostname" value="https://cats-inna-dev-ed.my.salesforce.com"/>
+            <property name="orgId" value="00D2p0000013mwyEAA"/>
+            <property name="username" value="inna.stolyarova@vrp.dev.comnsulting.com"/>
+            <property name="testRunId" value="7072p00007L80fj"/>
+            <property name="userId" value="0052p000009LlzYAAS"/>
+            <property name="testRunCoverage" value="74%"/>
+            <property name="orgWideCoverage" value="31%"/>
+        </properties>
+        <testcase name="deleteWebOrderTest" classname="TestCopyOrders" time="1.21">
+            <failure message="System.AssertException: Assertion Failed: Expected: Opportunity:{Name=My Opportunity, Id=0062p0000127o8BAAQ}, Actual: null"><![CDATA[Class.TestCopyOrders.deleteWebOrderTest: line 116, column 1]]></failure>
+        </testcase>
+    </testsuite>
+</testsuites>
